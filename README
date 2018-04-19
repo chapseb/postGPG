@@ -1,7 +1,7 @@
-# Project Title
+# GPG EXAMPLE
 
-One Paragraph of project description goes here
+Example with gpg and non gpg commit
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You can look commit view and see the label 'verify' next to second commit.
